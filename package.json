@@ -8,6 +8,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "engines": {
+  "node": "18.x"
+  },
   "dependencies": {
     "@headlessui/react": "^1.7.18",
     "cannon-es": "^0.20.0",
