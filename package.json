@@ -1,7 +1,7 @@
 {
   "name": "youware-react-template",
-  "private": true,
   "version": "0.0.1",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "engines": {
-  "node": "24.x"
+    "node": "24.x"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.18",
@@ -41,7 +41,7 @@
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17",
-    "typescript": "~5.8.3",
+    "typescript": "^5.8.3",
     "vite": "^7.0.0"
   }
 }
